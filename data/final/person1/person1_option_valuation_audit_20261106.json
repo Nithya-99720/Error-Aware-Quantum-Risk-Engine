@@ -34,8 +34,6 @@
             "V_load": 511.522723334035,
             "grid_minus_BS_snapped": -21.431298615084017,
             "load_minus_grid": -1.1368683772161603e-13,
-            "grid_minus_market": 141.57272333403512,
-            "load_minus_market": 141.572723334035,
             "max_probability_error": 3.0531133177191805e-16
         },
         {
@@ -53,8 +51,6 @@
             "V_load": 368.36127689324417,
             "grid_minus_BS_snapped": -4.710932037839768,
             "load_minus_grid": 1.8758328224066645e-12,
-            "grid_minus_market": -1.5887231067576977,
-            "load_minus_market": -1.5887231067558218,
             "max_probability_error": 9.71445146547012e-16
         },
         {
@@ -72,8 +68,6 @@
             "V_load": 430.800050815611,
             "grid_minus_BS_snapped": -1.1860001277218544,
             "load_minus_grid": -9.15179043659009e-12,
-            "grid_minus_market": 60.850050815620136,
-            "load_minus_market": 60.850050815610985,
             "max_probability_error": 2.055300374337321e-14
         },
         {
@@ -91,8 +85,6 @@
             "V_load": 396.86449630244624,
             "grid_minus_BS_snapped": -0.3737285437044875,
             "load_minus_grid": -3.751665644813329e-12,
-            "grid_minus_market": 26.914496302450004,
-            "load_minus_market": 26.914496302446253,
             "max_probability_error": 1.2705114738054135e-14
         },
         {
@@ -110,8 +102,6 @@
             "V_load": 380.77594177830656,
             "grid_minus_BS_snapped": -0.17818914358480242,
             "load_minus_grid": 1.6541434888495132e-11,
-            "grid_minus_market": 10.82594177829003,
-            "load_minus_market": 10.825941778306571,
             "max_probability_error": 8.29857016437785e-14
         },
         {
@@ -129,8 +119,6 @@
             "V_load": 372.9419248706796,
             "grid_minus_BS_snapped": -0.130284060358008,
             "load_minus_grid": -4.445155354915187e-11,
-            "grid_minus_market": 2.9919248707240627,
-            "load_minus_market": 2.991924870679611,
             "max_probability_error": 1.0184644794186681e-11
         }
     ],

@@ -1,4 +1,4 @@
-﻿import json
+import json
 import math
 import hashlib
 from pathlib import Path
@@ -171,8 +171,6 @@ def main():
             "V_load": V_load,
             "grid_minus_BS_snapped": V_grid - V_BS_grid_strike,
             "load_minus_grid": V_load - V_grid,
-            "grid_minus_market": V_grid - V_mkt_close,
-            "load_minus_market": V_load - V_mkt_close,
             "max_probability_error": probability_error
         })
 
