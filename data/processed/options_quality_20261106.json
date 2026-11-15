@@ -1,0 +1,40 @@
+{
+    "input_file": "C:\\Users\\Nithya.R\\Downloads\\QCA_lab_sem5\\Error-Aware-Quantum-Risk-Engine\\data\\raw\\fo_bhavcopy_extracted\\BhavCopy_NSE_FO_0_0_0_20261106_F_0000.csv",
+    "input_sha256": "03d56ecc6e0436dd55e870f55f7200f0f6b26c0d3a574ae39c33be446837d1df",
+    "output_file": "C:\\Users\\Nithya.R\\Downloads\\QCA_lab_sem5\\Error-Aware-Quantum-Risk-Engine\\data\\processed\\options_clean_20261106.csv",
+    "output_sha256": "96f2b838dd4660b31d005446b5b6b66936d6e24d24a13a3c98886411f557652e",
+    "as_of_date": "2026-11-06",
+    "selected_expiry": "2026-12-08",
+    "days_to_expiry": 32,
+    "T_years": 0.08767123287671233,
+    "underlying_price_median": 25030.35,
+    "underlying_price_min": 25030.35,
+    "underlying_price_max": 25030.35,
+    "filters": {
+        "instrument_type": "IDO",
+        "symbol": "NIFTY",
+        "expiry_days_min": 25,
+        "expiry_days_max": 35,
+        "target_expiry_days": 30,
+        "absolute_moneyness_max": 0.05,
+        "minimum_volume": 1,
+        "minimum_open_interest": 1,
+        "positive_close_required": true,
+        "positive_settlement_required": true
+    },
+    "candidate_contracts": 69,
+    "call_contracts": 43,
+    "put_contracts": 26,
+    "unique_strikes": 48,
+    "contracts_with_both_prices": 69,
+    "duplicate_contract_groups": 0,
+    "source_page": "https://www.nseindia.com/all-reports",
+    "download_date": "2026-11-09",
+    "notes": [
+        "Original ZIP and extracted CSV are preserved.",
+        "Close and settlement prices are retained separately.",
+        "No bid/ask prices are available in this bhavcopy.",
+        "Positive volume and open interest are an initial screen, not a guarantee of strong liquidity.",
+        "Source page is recorded; exact archive download URL should be added to the project audit notes."
+    ]
+}

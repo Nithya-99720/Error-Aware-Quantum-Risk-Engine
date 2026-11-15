@@ -1,0 +1,23 @@
+{
+    "as_of_date": "2026-11-06",
+    "expiry_date": "2026-12-08",
+    "spot_price_S0": 25030.35,
+    "dividend_yield_percent": 1.41,
+    "dividend_yield_decimal_q": 0.0141,
+    "rbi_observation_date": "2026-11-04",
+    "rbi_91_day_cutoff_yield_percent": 5.897,
+    "continuous_risk_free_rate_r": 0.05854071082141279,
+    "volatility_annualized": {
+        "90": 0.12963390243844902,
+        "180": 0.15738041355574806,
+        "250": 0.14380125542682093
+    },
+    "primary_volatility_window_days": 90,
+    "primary_sigma": 0.12963390243844902,
+    "calendar_days_to_expiry": 32,
+    "time_to_expiry_years": 0.08767123287671233,
+    "forward_price_F": 25128.062775786286,
+    "volatility_method": "Daily log returns, sample standard deviation (ddof=1), annualized by sqrt(252)",
+    "risk_free_rate_method": "r = (365/91) * ln(1 + y*91/365)",
+    "model_note": "Historical volatility used as the volatility input in a risk-neutral GBM."
+}

@@ -1,0 +1,48 @@
+{
+    "source_files": [
+        {
+            "name": "nifty50_nse_2021_2022.csv.csv",
+            "rows": 249,
+            "sha256": "f45d81a3a26c76702920fab80bca486a678c386ee91ad54d89763f5eb82cae72"
+        },
+        {
+            "name": "nifty50_nse_2022_2023.csv.csv",
+            "rows": 248,
+            "sha256": "ecc91dd5ed1530701c13581609f446a9fccb17dc29bcdf72cc2ed08100628dfc"
+        },
+        {
+            "name": "nifty50_nse_2023_2024.csv.csv",
+            "rows": 250,
+            "sha256": "4b1b3d2dbbc5f50831f2055bad5b3ea2637745e840ced0fcf892f2d41f1b78f9"
+        },
+        {
+            "name": "nifty50_nse_2024_2025.csv.csv",
+            "rows": 247,
+            "sha256": "18d3070e827e31fdf86efad4f5f501a9d9e47a3d770e0e5bf67de1b4865124ea"
+        },
+        {
+            "name": "nifty50_nse_2025_2026.csv.csv",
+            "rows": 247,
+            "sha256": "d46bd7841f4b5897a959cacd7b3137d8c69033c9d8da66b6f98c8902b01e3bf0"
+        }
+    ],
+    "combined_rows": 1241,
+    "unique_dates": 1241,
+    "duplicate_dates": 0,
+    "start_date": "2021-11-08",
+    "end_date": "2026-11-06",
+    "missing_ohlc_values": 0,
+    "official_dates_not_in_old_file": [
+        "2023-11-12",
+        "2024-01-20",
+        "2024-03-02",
+        "2024-05-18",
+        "2026-02-01"
+    ],
+    "old_file_dates_not_in_official": [],
+    "common_dates": 1236,
+    "close_price_mismatches_over_0_01": 0,
+    "maximum_absolute_close_difference": 0.0007812500007275958,
+    "output_file": "C:\\Users\\Nithya.R\\Downloads\\QCA_lab_sem5\\Error-Aware-Quantum-Risk-Engine\\data\\processed\\nifty50_nse_official_clean.csv",
+    "output_sha256": "d2c14cbdea5c258ce7c93db7c08ef6e30073bc538243cd9da5ce083aacacea3a"
+}
